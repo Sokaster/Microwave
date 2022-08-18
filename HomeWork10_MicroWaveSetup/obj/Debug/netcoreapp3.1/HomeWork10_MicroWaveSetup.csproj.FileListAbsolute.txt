@@ -1,0 +1,14 @@
+C:\Users\danen\source\repos\HomeWork10_MicroWaveSetup\HomeWork10_MicroWaveSetup\bin\Debug\netcoreapp3.1\HomeWork10_MicroWaveSetup.exe
+C:\Users\danen\source\repos\HomeWork10_MicroWaveSetup\HomeWork10_MicroWaveSetup\bin\Debug\netcoreapp3.1\HomeWork10_MicroWaveSetup.deps.json
+C:\Users\danen\source\repos\HomeWork10_MicroWaveSetup\HomeWork10_MicroWaveSetup\bin\Debug\netcoreapp3.1\HomeWork10_MicroWaveSetup.runtimeconfig.json
+C:\Users\danen\source\repos\HomeWork10_MicroWaveSetup\HomeWork10_MicroWaveSetup\bin\Debug\netcoreapp3.1\HomeWork10_MicroWaveSetup.runtimeconfig.dev.json
+C:\Users\danen\source\repos\HomeWork10_MicroWaveSetup\HomeWork10_MicroWaveSetup\bin\Debug\netcoreapp3.1\HomeWork10_MicroWaveSetup.dll
+C:\Users\danen\source\repos\HomeWork10_MicroWaveSetup\HomeWork10_MicroWaveSetup\bin\Debug\netcoreapp3.1\HomeWork10_MicroWaveSetup.pdb
+C:\Users\danen\source\repos\HomeWork10_MicroWaveSetup\HomeWork10_MicroWaveSetup\obj\Debug\netcoreapp3.1\HomeWork10_MicroWaveSetup.csproj.AssemblyReference.cache
+C:\Users\danen\source\repos\HomeWork10_MicroWaveSetup\HomeWork10_MicroWaveSetup\obj\Debug\netcoreapp3.1\HomeWork10_MicroWaveSetup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danen\source\repos\HomeWork10_MicroWaveSetup\HomeWork10_MicroWaveSetup\obj\Debug\netcoreapp3.1\HomeWork10_MicroWaveSetup.AssemblyInfoInputs.cache
+C:\Users\danen\source\repos\HomeWork10_MicroWaveSetup\HomeWork10_MicroWaveSetup\obj\Debug\netcoreapp3.1\HomeWork10_MicroWaveSetup.AssemblyInfo.cs
+C:\Users\danen\source\repos\HomeWork10_MicroWaveSetup\HomeWork10_MicroWaveSetup\obj\Debug\netcoreapp3.1\HomeWork10_MicroWaveSetup.csproj.CoreCompileInputs.cache
+C:\Users\danen\source\repos\HomeWork10_MicroWaveSetup\HomeWork10_MicroWaveSetup\obj\Debug\netcoreapp3.1\HomeWork10_MicroWaveSetup.dll
+C:\Users\danen\source\repos\HomeWork10_MicroWaveSetup\HomeWork10_MicroWaveSetup\obj\Debug\netcoreapp3.1\HomeWork10_MicroWaveSetup.pdb
+C:\Users\danen\source\repos\HomeWork10_MicroWaveSetup\HomeWork10_MicroWaveSetup\obj\Debug\netcoreapp3.1\HomeWork10_MicroWaveSetup.genruntimeconfig.cache
